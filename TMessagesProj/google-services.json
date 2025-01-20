@@ -1,15 +1,15 @@
 {
   "project_info": {
-    "project_number": "153744097257",
-    "project_id": "exteragram-7fbe0",
-    "storage_bucket": "exteragram-7fbe0.appspot.com"
+    "project_number": "",
+    "project_id": "extragram-00000",
+    "storage_bucket": "extragram-7fbe0.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:153744097257:android:284b989832b6cd10589578",
         "android_client_info": {
-          "package_name": "com.exteragram.messenger"
+          "package_name": "com.extragram.hiperstudiis"
         }
       },
       "oauth_client": [
